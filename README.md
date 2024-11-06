@@ -24,7 +24,7 @@
 
 **Cracked Extensions**
 
-- [x] :framed_picture: **GrowBot** `Automatic follow/unfollow/like with advanced filters, randomized timers, and more high-tech features.`
+- [x] :framed_picture: **[GrowBot](https://github.com/YezerSTN/StoreSTN/releases/tag/GrowBot)** `Automatic follow/unfollow/like with advanced filters, randomized timers, and more high-tech features.`
       </p>
 
 - :unicorn: **Explanation** `Just click to see the versions of each extension and download it.`
