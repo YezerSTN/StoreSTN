@@ -4,7 +4,7 @@
   <p align="center">StoreSTN is a store that tests extensions.</p>
    <p align="center">
    <img src="https://img.shields.io/github/downloads/YezerSTN/StoreSTN/total?color=red&label=DOWNLOADS">
-   <img src="https://img.shields.io/github/v/tag/YezerSTN/StoreSTN?label=VERSION">
+   <img src="https://img.shields.io/github/v/tag/YezerSTN/StoreSTN?label=LAST UPDATE">
    <img src="https://img.shields.io/github/stars/YezerSTN/StoreSTN?style=social">	
    </p>
 
